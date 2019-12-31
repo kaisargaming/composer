@@ -1,0 +1,182 @@
+{
+    "packages": {
+        "kaisargaming/core-lib": {
+            "v0.1.0": {
+                "name": "kaisargaming/core-lib",
+                "version": "v0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kaisargaming/core-lib.git",
+                    "reference": "0e241c8e1f8b141d65577ca6ae9d1725346442f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/kaisargaming/core-lib/zipball/0e241c8e1f8b141d65577ca6ae9d1725346442f4",
+                    "reference": "0e241c8e1f8b141d65577ca6ae9d1725346442f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "pds/skeleton": "^1.0",
+                    "php": "^7.0.0",
+                    "ramsey/uuid": "^3.9"
+                },
+                "time": "2019-12-29T20:07:22+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "KGaming\\Core\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Kaisargaming",
+                        "email": "kaisargamingdev@gmail.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "PHP Core library for Kaisargaming App development",
+                "homepage": "https://github.com/kaisargaming/core-lib.git",
+                "support": {
+                    "source": "https://github.com/kaisargaming/core-lib/tree/v0.1.1",
+                    "issues": "https://github.com/kaisargaming/core-lib/issues"
+                }
+            },
+            "v0.1.1": {
+                "name": "kaisargaming/core-lib",
+                "version": "v0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kaisargaming/core-lib.git",
+                    "reference": "0e241c8e1f8b141d65577ca6ae9d1725346442f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/kaisargaming/core-lib/zipball/0e241c8e1f8b141d65577ca6ae9d1725346442f4",
+                    "reference": "0e241c8e1f8b141d65577ca6ae9d1725346442f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "pds/skeleton": "^1.0",
+                    "php": "^7.0.0",
+                    "ramsey/uuid": "^3.9"
+                },
+                "time": "2019-12-29T20:07:22+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "KGaming\\Core\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Kaisargaming",
+                        "email": "kaisargamingdev@gmail.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "PHP Core library for Kaisargaming App development",
+                "homepage": "https://github.com/kaisargaming/core-lib.git",
+                "support": {
+                    "source": "https://github.com/kaisargaming/core-lib/tree/v0.1.1",
+                    "issues": "https://github.com/kaisargaming/core-lib/issues"
+                }
+            },
+            "dev-master": {
+                "name": "kaisargaming/core-lib",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kaisargaming/core-lib.git",
+                    "reference": "628bb37dd59748e27ce44bf80423bb7009b143b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/kaisargaming/core-lib/zipball/628bb37dd59748e27ce44bf80423bb7009b143b1",
+                    "reference": "628bb37dd59748e27ce44bf80423bb7009b143b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "pds/skeleton": "^1.0",
+                    "php": "^7.0.0",
+                    "ramsey/uuid": "^3.9"
+                },
+                "time": "2019-12-30T08:05:30+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "KGaming\\Core\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Kaisargaming",
+                        "email": "kaisargamingdev@gmail.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "PHP Core library for Kaisargaming App development",
+                "homepage": "https://github.com/kaisargaming/core-lib.git",
+                "support": {
+                    "source": "https://github.com/kaisargaming/core-lib/tree/master",
+                    "issues": "https://github.com/kaisargaming/core-lib/issues"
+                }
+            }
+        },
+        "phpid/db-core": {
+            "dev-master": {
+                "name": "phpid/db-core",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/php-id/phplib-db-core.git",
+                    "reference": "92f7793c7a23493fefde143236126122bae438e3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/php-id/phplib-db-core/get/92f7793c7a23493fefde143236126122bae438e3.zip",
+                    "reference": "92f7793c7a23493fefde143236126122bae438e3",
+                    "shasum": ""
+                },
+                "require": {
+                    "pds/skeleton": "^1.0"
+                },
+                "time": "2019-12-31T09:32:01+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Phpid\\Db\\": "src/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Tajid Yakub",
+                        "email": "tajid.yakub@gmail.com"
+                    }
+                ],
+                "description": "Small Mysql database connection and base model class.",
+                "homepage": "https://bitbucket.org/php-id/phplib-db-core",
+                "keywords": [
+                    "library",
+                    "mysql",
+                    "pdo"
+                ],
+                "support": {
+                    "source": "https://bitbucket.org/php-id/phplib-db-core/src/92f7793c7a23493fefde143236126122bae438e3/?at=master"
+                }
+            }
+        }
+    }
+}
